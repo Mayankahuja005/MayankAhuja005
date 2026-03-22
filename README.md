@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Mayank Ahuja
 
-<!--
-**Mayankahuja005/MayankAhuja005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 AI/ML Developer 
+💻 Currently learning DSA in C++  
+🧠 Interested in Machine Learning, AI & Web Dev  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+C | C++ | HTML | CSS | Tailwind CSS | JavaScript |
+MySQL | Video Editing  | Git | GitHub  
+
+---
+
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mayank-ahuja-430414332)
+
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:mayankahuja700@gmail.com)
