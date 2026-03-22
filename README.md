@@ -16,9 +16,17 @@
 
 ## 💻 Tech Stack
 
-C | C++ | HTML | CSS | Tailwind CSS | JavaScript  
+![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 
-MySQL | Video Editing | Git | GitHub  
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![Video Editing](https://img.shields.io/badge/Video_Editing-purple?style=for-the-badge)
 
 ---
 
